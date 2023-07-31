@@ -1,0 +1,16 @@
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\varun\Downloads\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\Yureni Isunima\OneDrive\Desktop\C# Tutorials\Lab - 3 (May26)\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
